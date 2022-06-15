@@ -2,6 +2,7 @@ title: straight dope
 markdown: kramdown
 url: "https://www.straightdope.tech"
 baseurl: ""
+sitename: straightdope.tech
 
 # for atom feed
 author:
