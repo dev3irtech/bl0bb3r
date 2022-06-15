@@ -5,8 +5,8 @@ baseurl: ""
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: straightdope.tech
+  email: dont@contact.me
 
 plugins:
   - jemoji
