@@ -86,6 +86,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  jekyll
   jekyll-feed
   jekyll-seo-tag
   jekyll-sitemap
